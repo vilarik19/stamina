@@ -1,0 +1,24 @@
+{
+  "attempts": [
+    {
+      "timestamp_utc": "2026-05-12T19:00:58.840512+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 17.245,
+      "typed_chars": 61,
+      "correct_chars": 60,
+      "errors": 1
+    },
+    {
+      "timestamp_utc": "2026-05-12T20:02:15.876274+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 14.573,
+      "typed_chars": 61,
+      "correct_chars": 61,
+      "errors": 0
+    }
+  ]
+}

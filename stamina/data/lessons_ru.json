@@ -1,0 +1,114 @@
+{
+  "layouts": {
+    "ru": {
+      "name": "Русская (ЙЦУКЕН)",
+      "home_keys": "фыва олдж",
+      "allowed_default": "фываолджрпитьнегшщзхъёячсмюб., "
+    },
+    "en": {
+      "name": "Английская (QWERTY)",
+      "home_keys": "asdf jkl;",
+      "allowed_default": "asdfghjkl;qwertyuiopzxcvbnm,./ "
+    }
+  },
+  "lessons": [
+    {
+      "id": "ru_home_1",
+      "title": "Домашний ряд: ф ы в а / о л д ж",
+      "layout": "ru",
+      "text": "фф ыы вв аа оо лл дд жж фыва олдж фыва олдж фыва олдж"
+    },
+    {
+      "id": "ru_home_2",
+      "title": "Домашний ряд: комбинации",
+      "layout": "ru",
+      "text": "фыв аоф вад лод жда фолда жвав фыва олдж фыва олдж"
+    },
+    {
+      "id": "ru_home_3",
+      "title": "Домашний ряд: р п и т / н е г ш",
+      "layout": "ru",
+      "text": "рр пп ии тт нн ее гг шш рпит негш рпит негш рпит негш"
+    },
+    {
+      "id": "ru_mix_1",
+      "title": "Смешивание: домашний ряд",
+      "layout": "ru",
+      "text": "фыва олдж рпит негш фолг рпва тдшн пигл фыва олдж"
+    },
+    {
+      "id": "ru_top_1",
+      "title": "Верхний ряд: й ц у к е / н г ш щ з",
+      "layout": "ru",
+      "text": "йй цц уу кк ее нн гг шш щщ зз йцуке нгшщз йцуке нгшщз"
+    },
+    {
+      "id": "ru_bottom_1",
+      "title": "Нижний ряд: я ч с м и / т ь б ю",
+      "layout": "ru",
+      "text": "яя чч сс мм ии тт ьь бб юю ячсми тьбю ячсми тьбю"
+    },
+    {
+      "id": "ru_punct_1",
+      "title": "Знаки: точка и запятая",
+      "layout": "ru",
+      "text": "мама, папа, брат, сестра. точка, запятая, пауза. пиши аккуратно, не спеши."
+    },
+    {
+      "id": "ru_digits_1",
+      "title": "Цифры: 1–0",
+      "layout": "ru",
+      "kind": "digits",
+      "text": ""
+    },
+    {
+      "id": "ru_words_1",
+      "title": "Слова (простые)",
+      "layout": "ru",
+      "text": "мама мыла раму. рама мыла маму. мы учили слепой метод печати."
+    },
+    {
+      "id": "ru_sentence_1",
+      "title": "Предложения",
+      "layout": "ru",
+      "text": "Слепая печать помогает быстрее писать и меньше уставать. Сначала важнее точность, а скорость придёт потом."
+    },
+    {
+      "id": "en_home_1",
+      "title": "Home row: a s d f / j k l ;",
+      "layout": "en",
+      "text": "aa ss dd ff jj kk ll ;; asdf jkl; asdf jkl; asdf jkl;"
+    },
+    {
+      "id": "en_home_2",
+      "title": "Home row: mixes",
+      "layout": "en",
+      "text": "asdf jkl; fjdj klsl asdj fjal dakl sjdf jkla asdf jkl;"
+    },
+    {
+      "id": "en_top_1",
+      "title": "Top row: q w e r t / y u i o p",
+      "layout": "en",
+      "text": "qq ww ee rr tt yy uu ii oo pp qwert yuiop qwert yuiop"
+    },
+    {
+      "id": "en_bottom_1",
+      "title": "Bottom row: z x c v b / n m",
+      "layout": "en",
+      "text": "zz xx cc vv bb nn mm zxcvb nm zxcvb nm zxcvb nm"
+    },
+    {
+      "id": "en_words_1",
+      "title": "Words (easy)",
+      "layout": "en",
+      "text": "we will type simple words. focus on accuracy first, then speed will improve."
+    },
+    {
+      "id": "en_digits_1",
+      "title": "Digits: 1–0",
+      "layout": "en",
+      "kind": "digits",
+      "text": ""
+    }
+  ]
+}

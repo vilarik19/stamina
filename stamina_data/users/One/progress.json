@@ -1,0 +1,114 @@
+{
+  "attempts": [
+    {
+      "timestamp_utc": "2026-05-12T17:49:12.438467+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 12.524,
+      "typed_chars": 61,
+      "correct_chars": 61,
+      "errors": 0
+    },
+    {
+      "timestamp_utc": "2026-05-12T17:55:01.222466+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 21.075,
+      "typed_chars": 61,
+      "correct_chars": 61,
+      "errors": 0
+    },
+    {
+      "timestamp_utc": "2026-05-12T18:10:11.016198+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 13.623,
+      "typed_chars": 61,
+      "correct_chars": 61,
+      "errors": 0
+    },
+    {
+      "timestamp_utc": "2026-05-12T18:11:20.323313+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_bottom_1",
+      "layout": "ru",
+      "duration_sec": 3.475,
+      "typed_chars": 48,
+      "correct_chars": 7,
+      "errors": 41
+    },
+    {
+      "timestamp_utc": "2026-05-12T18:12:40.075743+00:00",
+      "mode": "practice",
+      "lesson_id": null,
+      "layout": "ru",
+      "duration_sec": 8.598,
+      "typed_chars": 167,
+      "correct_chars": 6,
+      "errors": 161
+    },
+    {
+      "timestamp_utc": "2026-05-12T18:29:47.531310+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 14.589,
+      "typed_chars": 61,
+      "correct_chars": 60,
+      "errors": 1
+    },
+    {
+      "timestamp_utc": "2026-05-12T18:52:45.267041+00:00",
+      "mode": "lesson",
+      "lesson_id": "en_words_1",
+      "layout": "en",
+      "duration_sec": 35.726,
+      "typed_chars": 76,
+      "correct_chars": 73,
+      "errors": 3
+    },
+    {
+      "timestamp_utc": "2026-05-12T18:53:10.918873+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 14.946,
+      "typed_chars": 61,
+      "correct_chars": 10,
+      "errors": 51
+    },
+    {
+      "timestamp_utc": "2026-05-12T19:26:35.788704+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_sentence_1",
+      "layout": "ru",
+      "duration_sec": 23.42,
+      "typed_chars": 106,
+      "correct_chars": 102,
+      "errors": 4
+    },
+    {
+      "timestamp_utc": "2026-05-12T20:21:33.691328+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 15.624,
+      "typed_chars": 61,
+      "correct_chars": 60,
+      "errors": 1
+    },
+    {
+      "timestamp_utc": "2026-05-12T20:32:35.400933+00:00",
+      "mode": "lesson",
+      "lesson_id": "ru_words_1",
+      "layout": "ru",
+      "duration_sec": 12.183,
+      "typed_chars": 61,
+      "correct_chars": 61,
+      "errors": 0
+    }
+  ]
+}

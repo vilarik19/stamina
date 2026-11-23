@@ -1,0 +1,14 @@
+{
+  "attempts": [
+    {
+      "timestamp_utc": "2026-05-11T20:09:05.852729+00:00",
+      "mode": "lesson",
+      "lesson_id": "x",
+      "layout": "en",
+      "duration_sec": 1.0,
+      "typed_chars": 3,
+      "correct_chars": 3,
+      "errors": 0
+    }
+  ]
+}
